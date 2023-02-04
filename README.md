@@ -199,7 +199,7 @@
          <img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=962fbf&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
    </a>
    
-<a href="[https://twitter.com/ghuman-arshjot](https://vsco.co/g-hooman/gallery)" target="_blank">
+<a href="https://vsco.co/g-hooman/gallery" target="_blank">
          <img src="https://img.shields.io/badge/vsco-%2300acee.svg?color=white&style=for-the-badge&logo=vsco&logoColor=black" alt=vsco style="margin-bottom: 5px;"/>
    </a>
 
