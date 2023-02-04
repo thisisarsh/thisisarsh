@@ -62,6 +62,7 @@
 <br>
    
 - **Extras**:
+   
    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
@@ -69,8 +70,11 @@
 
 <br>
 <br>
+
 -----
+
 <br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -84,37 +88,35 @@
 <br>
 <br>
 <br>
+
 -----
-<br>
+
 <br>
 
 ## <b> Let's Connect!</b><img src="https://github.com/thisisarsh/thisisarsh/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
-   <ul>
-      <li>
-         <a href="https://www.linkedin.com/in/arshjot-ghuman-b96751191/" target="_blank">
+
+<a href="https://www.linkedin.com/in/arshjot-ghuman-b96751191/" target="_blank">
          <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-         </a>
-      </li>
-      <br>
-      <li>
-         <a href="https://twitter.com/ghuman-arshjot" target="_blank">
+    </a>
+         
+<a href="https://twitter.com/ghuman-arshjot" target="_blank">
          <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-         </a>
-      </li>
-      <br>
-      <li>
-         <a href="mailto:arshjots11@gmail.com" target="_blank">
+   </a>
+   
+<a href="mailto:arshjots11@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-         </a>
-      </li>
-   </ul>
-</div>
+   </a>
+   
+<a href="https://www.instagram.com/arshjot.exe/" target="_blank">
+         <img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=962fbf&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+   </a>
+   
+<a href="[https://twitter.com/ghuman-arshjot](https://vsco.co/g-hooman/gallery)" target="_blank">
+         <img src="https://img.shields.io/badge/vsco-%2300acee.svg?color=white&style=for-the-badge&logo=vsco&logoColor=black" alt=vsco style="margin-bottom: 5px;"/>
+   </a>
+
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
----
-<br>
+
