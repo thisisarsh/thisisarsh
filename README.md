@@ -16,7 +16,7 @@
 - Full-Stack Web Development
 - A lot of interest in "Parallel Programming"
 - Currently learning "Machine Learning"
-- Personal [website]()
+- Personal [website](https://thisisarsh.github.io/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
