@@ -12,12 +12,11 @@
 
 <br>
 
-- Passionate low-level programmer
-- Full-Stack Web Development
-- A lot of interest in "Parallel Programming"
-- Currently learning "Machine Learning"
-- Personal [website](https://thisisarsh.github.io/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- Experienced in Full-Stack Web Development
+- Currently delving into Machine Learning
+- Passionate low-level programmer with a keen interest in Parallel Programming
+- Explore my personal [website](https://thisisarsh.github.io/)
+- I’m currently open for an internship or a new job opportunity, check out [my resume]()
 
 <br><br>
 
