@@ -16,7 +16,6 @@
 - Currently delving into Machine Learning
 - Passionate low-level programmer with a keen interest in Parallel Programming
 - Explore my personal [website](https://thisisarsh.github.io/)
-- I’m currently open for an internship or a new job opportunity, check out [my resume]()
 
 <br><br>
 
